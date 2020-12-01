@@ -1,5 +1,5 @@
 
-import code as x 
+import main as x 
 
 x.create("amrita",25)
 x.create("school",70,3600) 
